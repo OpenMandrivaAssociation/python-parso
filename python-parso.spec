@@ -2,7 +2,7 @@
 
 Name:		python-%{module}
 Version:	0.8.4
-Release:	1
+Release:	2
 Summary:	A Python Parser
 Group:		Development/Python
 License:	MIT
