@@ -1,8 +1,8 @@
 %define module	parso
 
 Name:		python-%{module}
-Version:	0.8.4
-Release:	2
+Version:	0.8.5
+Release:	1
 Summary:	A Python Parser
 Group:		Development/Python
 License:	MIT
